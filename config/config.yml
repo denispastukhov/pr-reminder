@@ -1,0 +1,12 @@
+bitbucket:
+  host:
+  user:
+  password: 
+projects: []
+#   - key: AN
+#   - key: OP
+filterReviewers: []
+#  - user1
+#  - user2
+slack:
+  webhookURL: 
